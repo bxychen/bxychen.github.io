@@ -30,4 +30,5 @@ p {
 .left,.right{
   width: 46w;
   justify-content: center;
+  text-align: center;
 }
