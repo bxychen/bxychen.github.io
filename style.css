@@ -1,14 +1,14 @@
 /* CSS files add styling rules to your content */
 
 body {
-  font-family: "Courier New", Courier, monospace;
+  font-family: Perpetua, Serif;
   margin: 2em;
 }
 
 h1 {
   font-size: 50px;
   font-style: Courier;
-  color: #87EAE3;
+  color: LightSlateGray;
 }
 h3{
   font-size: 30px;
