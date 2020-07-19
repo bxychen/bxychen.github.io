@@ -44,7 +44,7 @@ p {
 }
 .navbar > h3 {
   display: inline-block;
-  padding-right: 20px;
+  padding-right: 50px;
 }
 .navbar > h3 > a {
   text-decoration: none;
