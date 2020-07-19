@@ -36,3 +36,20 @@ p {
   background-color: #000000;
   padding: 20px 10px;
 }
+.navbar {
+  margin: 0;
+  padding: 20px 0 20px 0;
+  list-style: none;
+  text-align: right;
+}
+.navbar > h3 {
+  display: inline-block;
+  padding-right: 2px;
+}
+.navbar > h3 > a {
+  text-decoration: none;
+  color: #000000;
+}
+.navbar > h3 > a:hover {
+  color: #C0C0C0;
+}
