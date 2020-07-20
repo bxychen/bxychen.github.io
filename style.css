@@ -59,3 +59,9 @@ p {
 .navbar > h3 > a:hover {
   color: #C0C0C0;
 }
+.aboutcategories > h4 {
+  display: inline-block;
+  padding: 20px 0 20px 0;
+  border-style: solid;
+  border-color: #C0C0C0
+}
