@@ -61,7 +61,7 @@ p {
 }
 .aboutcategories > h4 {
   display: inline-block;
-  padding: 20px 0 20px 0;
+  padding: 20px 50px 20px 50px;
   border-style: solid;
   border-color: #C0C0C0
 }
