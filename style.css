@@ -65,3 +65,10 @@ p {
   border-style: solid;
   border-color: #C0C0C0
 }
+.blogslist > h3 > a{
+  text-decoration: none;
+  color: #000000;
+}
+.blogslist > h3 > a:hover {
+  color: #C0C0C0;
+}
