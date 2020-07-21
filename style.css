@@ -1,5 +1,5 @@
 /* CSS files add styling rules to your content */
-
+/* general text styles */
 body {
   font-family: 'Lora', serif;
   margin: 2em;
@@ -16,15 +16,16 @@ h1 {
   color: #C0C0C0;
 }
 h3{
-  font-size: 30px;
+  font-size: 40px;
 }
 h4{
-  font-size: 25px;
+  font-size: 30px;
 }
 p {
-  font-size: 19px;
   color: black;
+  font-family: 'Roboto';font-size: 19px;
 }
+/*sections for general format*/
 .main {
   display: inline;
   justify-content: center;
@@ -59,12 +60,14 @@ p {
 .navbar > h3 > a:hover {
   color: #C0C0C0;
 }
+/*about page section*/
 .aboutcategories > h4 {
   display: inline-block;
   padding: 20px 50px 20px 50px;
   border-style: solid;
   border-color: #C0C0C0
 }
+/*blog section*/
 .blogslist > h3 > a{
   text-decoration: none;
   color: #000000;
